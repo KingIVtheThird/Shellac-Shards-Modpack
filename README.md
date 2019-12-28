@@ -4,7 +4,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 
 
 ### Potential Mods:
-- (Dark Utils)[https://www.curseforge.com/minecraft/mc-mods/dark-utilities] - Bunch of little items that can make things easier.
+- (Dark Utils)[https://www.curseforge.com/minecraft/mc-mods/dark-utilities], Bunch of little items that can make things easier.
 - (Animania)[https://www.curseforge.com/minecraft/mc-mods/animania] - Variations of vanilla mobs, and adds a few like bulls and peacocks.
 - (Enviromental Tech)[https://www.curseforge.com/minecraft/mc-mods/environmental-tech] - Green energy generation, and also void miners.
 - (Rocketry)[https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry] - Rockets! Too bad the library has conflicts.
