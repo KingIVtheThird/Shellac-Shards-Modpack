@@ -72,4 +72,4 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Vanilla Food Pantry](https://www.curseforge.com/minecraft/mc-mods/vanillafoodpantry-mod)
 
 
-* - Client Side Only
+\* \- Client Side Only
