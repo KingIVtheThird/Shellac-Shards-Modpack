@@ -11,7 +11,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - Better Foliage alternative, [BF is dead](https://www.curseforge.com/minecraft/mc-mods/better-foliage) - Fancy Trees.
 - [Zen: Foundry](https://www.curseforge.com/minecraft/mc-mods/zen-foundry) - Make early tools with ceramic processing.
 - [BetterBeginnings Mod](https://www.curseforge.com/minecraft/mc-mods/betterbeginnings-mod) - A different start to normal progression.
-
+- [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition) Alternative, this mods not updated for 1.12.2.
 
 ### Questing+Custom:
 - Tweakers Construct
@@ -25,11 +25,11 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 
 
 ### Sources:
+- [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore)
 - [Vazkii's AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
 - [Guichaguri's Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)
 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
-- [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition)
 - [Biome o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
 - [jaquadro's Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon)
@@ -57,6 +57,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Natura](https://www.curseforge.com/minecraft/mc-mods/natura)
 - [Open Computers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
 - [Optifine](https://optifine.net/home)*
+- [Orelib](https://www.curseforge.com/minecraft/mc-mods/orelib)*
 - [Pamela Collins and Rhodoxs Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 - [Passable Leaves](https://www.curseforge.com/minecraft/mc-mods/passable-leaves)
 - [Plus TiC](https://www.curseforge.com/minecraft/mc-mods/plustic)
