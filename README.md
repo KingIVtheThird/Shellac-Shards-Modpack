@@ -25,15 +25,15 @@ Quark Marble and Chisel Raw Marble
 
 
 ### Sources:
--[Vazkii's AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
--[Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
--[Guichaguri's Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)
--[BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
--[BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition)
--[Biome o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
--[Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
+- [Vazkii's AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
+- [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
+- [Guichaguri's Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)
+- [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
+- [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition)
+- [Biome o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
 -[jaquadro's Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon)
--[Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
+- [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
 -[Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 -[Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)
 -[Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
