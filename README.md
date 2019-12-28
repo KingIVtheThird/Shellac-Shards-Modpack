@@ -4,13 +4,13 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 
 
 ### Potential Mods:
-- Dark Utils
-- (Animania) [https://www.curseforge.com/minecraft/mc-mods/animania]
-- (Enviromental Tech) [https://www.curseforge.com/minecraft/mc-mods/environmental-tech]
-- Rocketry + LibVulpes
-- BetterBeginnings Mod
-- Better Foliage alternative, (BF is dead) [https://www.curseforge.com/minecraft/mc-mods/better-foliage]
-- (Zen: Foundry)[https://www.curseforge.com/minecraft/mc-mods/zen-foundry]
+- (Dark Utils)[https://www.curseforge.com/minecraft/mc-mods/dark-utilities] - Bunch of little items that can make things easier.
+- (Animania)[https://www.curseforge.com/minecraft/mc-mods/animania] - Variations of vanilla mobs, and adds a few like bulls and peacocks.
+- (Enviromental Tech)[https://www.curseforge.com/minecraft/mc-mods/environmental-tech] - Green energy generation, and also void miners.
+- (Rocketry)[https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry] - Rockets! Too bad the library has conflicts.
+- Better Foliage alternative, (BF is dead) [https://www.curseforge.com/minecraft/mc-mods/better-foliage] - Fancy Trees.
+- (Zen: Foundry)[https://www.curseforge.com/minecraft/mc-mods/zen-foundry] - Make early tools with ceramic processing.
+- (BetterBeginnings Mod)[https://www.curseforge.com/minecraft/mc-mods/betterbeginnings-mod] - A different start to normal progression.
 
 
 ### Questing+Custom:
