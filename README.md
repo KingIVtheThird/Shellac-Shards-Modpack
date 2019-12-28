@@ -4,24 +4,24 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 
 
 ### Potential Mods:
-Dark Utils
-(Animania) [https://www.curseforge.com/minecraft/mc-mods/animania]
-(Enviromental Tech) [https://www.curseforge.com/minecraft/mc-mods/environmental-tech]
-Rocketry + LibVulpes
-BetterBeginnings Mod
-Better Foliage alternative, (BF is dead) [https://www.curseforge.com/minecraft/mc-mods/better-foliage]
-(Zen: Foundry)[https://www.curseforge.com/minecraft/mc-mods/zen-foundry]
+- Dark Utils
+- (Animania) [https://www.curseforge.com/minecraft/mc-mods/animania]
+- (Enviromental Tech) [https://www.curseforge.com/minecraft/mc-mods/environmental-tech]
+- Rocketry + LibVulpes
+- BetterBeginnings Mod
+- Better Foliage alternative, (BF is dead) [https://www.curseforge.com/minecraft/mc-mods/better-foliage]
+- (Zen: Foundry)[https://www.curseforge.com/minecraft/mc-mods/zen-foundry]
 
 
 ### Questing+Custom:
-Tweakers Construct
-Guide API
+- Tweakers Construct
+- Guide API
 
 
 
 ### Aspects to Change:
-Natura berry bushes look terrible
-Quark Marble and Chisel Raw Marble
+- Natura berry bushes look terrible
+- Quark Marble and Chisel Raw Marble
 
 
 ### Sources:
