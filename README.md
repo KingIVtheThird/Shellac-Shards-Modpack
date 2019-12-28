@@ -56,6 +56,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Natura](https://www.curseforge.com/minecraft/mc-mods/natura)
 - [Open Computers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
+- [Optifine](https://optifine.net/home)*
 - [Pamela Collins and Rhodoxs Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 - [Passable Leaves](https://www.curseforge.com/minecraft/mc-mods/passable-leaves)
 - [Plus TiC](https://www.curseforge.com/minecraft/mc-mods/plustic)
