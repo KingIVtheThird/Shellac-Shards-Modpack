@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Shellac Shards Modpack Version 0.02
-=======
-# Shellac Shards Modpack Version 0.01
->>>>>>> fa52f4dfaa8e42533c9132480bcbf8bbb17c8a32
 ## For Minecraft 1.12.2, Forge 14.23.5.2847
 This modpack is aiming for a technology centered progressive adventure. Might add a questbook later, or something to guide players from mud huts to space stations.
 
