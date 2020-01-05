@@ -6,16 +6,36 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 ### Potential Mods:
 - [Dark Utils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) - Bunch of little items that can make things easier.
 - [Enviromental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) - Green energy generation, and also void miners.
-- [Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) - Rockets! Too bad the library has conflicts.
-- Better Foliage alternative, [BF is dead](https://www.curseforge.com/minecraft/mc-mods/better-foliage) - Fancy Trees.
-- [BetterBeginnings Mod](https://www.curseforge.com/minecraft/mc-mods/betterbeginnings-mod) - A different start to normal progression. This may become redundant with more mods, and the last update from over a year ago seemed to be making it worse.
-- [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition) Alternative, this mods not updated for 1.12.2.
-- [Angry Pixel's The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod), Currently leads to massive memory problems. If a fix is available in the future, may bring it back.
+- [Its The Little Things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things) - Some little HUD changes mostly. Waiting on more content.
+- Adventurers Toolbox, replace tinkers?
+- Simple storage network, replace drawers.
+- [Factory Tech](https://www.curseforge.com/minecraft/mc-mods/factory-tech) - Maybe? Needs balancing apparently.
+- [Futurepack](https://www.curseforge.com/minecraft/mc-mods/futurepack) - Maybe? its tech thaumcraft.
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Maybe?
+
 - [Nutrition](https://github.com/WesCook/Nutrition) - Force variable food supplies.
-- [Its The Little Things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things) - Some little HUD changes mostly.
-- [Harder Ores](https://www.curseforge.com/minecraft/mc-mods/harder-ores) - Ores spawn in larger veins, more rarely.
-- [Harder Underground](https://www.curseforge.com/minecraft/mc-mods/harder-underground) - Gases and cave collapses.
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) or [Keyboard Wizard](https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard) - Keybinding screen update.
+- [Geomastery](https://github.com/JayAvery/geomastery) - Does exactly what I want, but is not being worked on anymore. Open source, so I can do something with it.
+- [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
+- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
+- [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
+- [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
+- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
+- [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
+- [Nutrition](https://github.com/WesCook/Nutrition)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [Open Gliders](https://www.curseforge.com/minecraft/mc-mods/open-glider)
+- [JEI Bees](https://www.curseforge.com/minecraft/mc-mods/jei-bees)
+- [nihiltres' Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors)
+- [Fabric Controlling](https://www.curseforge.com/minecraft/mc-mods/fabric-controlling)
+- [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
+- [Immersive Tech](https://www.curseforge.com/minecraft/mc-mods/immersive-tech)
+- [GeoloSys](https://www.curseforge.com/minecraft/mc-mods/geolosys)
+- [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
+- [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
+- [Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek)
+
 
 ### Future Custom Gameplay Editing Mods:
 - Tweakers Construct
@@ -34,9 +54,16 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Villager Trade Tables](https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables)
 
 
-### Aspects to Change:
-- Natura berry bushes look terrible
-- Quark Marble and Chisel Raw Marble (Unidict)
+### Removed, Buggy, or Dead:
+- [Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) - Rockets! Too bad the library has conflicts.
+- Better Foliage alternative, [BF is dead](https://www.curseforge.com/minecraft/mc-mods/better-foliage) - Fancy Trees.
+- [BetterBeginnings Mod](https://www.curseforge.com/minecraft/mc-mods/betterbeginnings-mod) - A different start to normal progression. This may become redundant with more mods, and the last update from over a year ago seemed to be making it worse.
+- [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition) alternative, this mods not updated for 1.12.2.
+- [Angry Pixel's The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod), Currently leads to massive memory problems. If a fix is available in the future, may bring it back.
+- [Glenns Gases](https://www.curseforge.com/minecraft/mc-mods/glenns-gases) - Missing mechanics and buggy.
+- [Harder Ores](https://www.curseforge.com/minecraft/mc-mods/harder-ores) - Dead. Replaced by Geolosys.
+- [Harder Underground](https://www.curseforge.com/minecraft/mc-mods/harder-underground) - Dead.
+- [Divergent Underground](https://www.curseforge.com/minecraft/mc-mods/divergent-underground) - Makes mining a little more realistic with ground layers, chiseling, rocks, etc. Seems dead.
 
 
 ### Sources:
