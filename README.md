@@ -17,24 +17,22 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) - Adds some machines, like the multiblock elevator.
 - [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage) - Finally got updated after a year and some, but crashes by itself for now.
 - [Traincraft](http://traincraft-mod.com/wordpress/about/) - Railcraft replacement. 1.7 version is the latest atm.
-
-- [Nutrition](https://github.com/WesCook/Nutrition) - Force variable food supplies.
 - [Geomastery](https://github.com/JayAvery/geomastery) - Does exactly what I want, but is not being worked on anymore. Open source, so I can do something with it.
+
 - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
-- [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
-- [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
-- [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
-- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
-- [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
-- [Nutrition](https://github.com/WesCook/Nutrition)
-- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
-- [JEI Bees](https://www.curseforge.com/minecraft/mc-mods/jei-bees)
-- [nihiltres' Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors)
-- [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
-- [GeoloSys](https://www.curseforge.com/minecraft/mc-mods/geolosys)
-- [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
-- [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
 - [Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek)
+- [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
+- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
+- [GeoloSys](https://www.curseforge.com/minecraft/mc-mods/geolosys)
+- [JEI Bees](https://www.curseforge.com/minecraft/mc-mods/jei-bees)
+- [Nutrition](https://github.com/WesCook/Nutrition)
+- [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
+- [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
+- [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
+- [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
+- [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
 
 
 
@@ -91,7 +89,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees: BOP Compat](https://www.curseforge.com/minecraft/mc-mods/dtbop)
 - [Dynamic Trees: PHC Compat](https://www.curseforge.com/minecraft/mc-mods/dtphc)
-- [Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors)
+- [nihiltres' Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors)
 - [Extra Alchemy](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy)
 - [Fabric Controlling](https://www.curseforge.com/minecraft/mc-mods/fabric-controlling)
 - [FastFurace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
