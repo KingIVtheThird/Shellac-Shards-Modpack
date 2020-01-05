@@ -12,11 +12,14 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Factory Tech](https://www.curseforge.com/minecraft/mc-mods/factory-tech) - Maybe? Needs balancing apparently.
 - [Futurepack](https://www.curseforge.com/minecraft/mc-mods/futurepack) - Maybe? its tech thaumcraft.
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Maybe?
+- [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) - Replace Journeymap?
+- [Emerging Technology](https://www.curseforge.com/minecraft/mc-mods/emerging-technology-hydroponics) - Adds a bunch of cool modern tech.
+- [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) - Adds some machines, like the multiblock elevator.
+- [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage) - Finally got updated after a year and some, but crashes by itself for now.
+- [Traincraft](http://traincraft-mod.com/wordpress/about/) - Railcraft replacement. 1.7 version is the latest atm.
 
 - [Nutrition](https://github.com/WesCook/Nutrition) - Force variable food supplies.
-- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) or [Keyboard Wizard](https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard) - Keybinding screen update.
 - [Geomastery](https://github.com/JayAvery/geomastery) - Does exactly what I want, but is not being worked on anymore. Open source, so I can do something with it.
-- [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
 - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 - [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
 - [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
@@ -25,16 +28,14 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
 - [Nutrition](https://github.com/WesCook/Nutrition)
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
-- [Open Gliders](https://www.curseforge.com/minecraft/mc-mods/open-glider)
 - [JEI Bees](https://www.curseforge.com/minecraft/mc-mods/jei-bees)
 - [nihiltres' Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors)
-- [Fabric Controlling](https://www.curseforge.com/minecraft/mc-mods/fabric-controlling)
 - [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
-- [Immersive Tech](https://www.curseforge.com/minecraft/mc-mods/immersive-tech)
 - [GeoloSys](https://www.curseforge.com/minecraft/mc-mods/geolosys)
 - [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
 - [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
 - [Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek)
+
 
 
 ### Future Custom Gameplay Editing Mods:
@@ -56,7 +57,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 
 ### Removed, Buggy, or Dead:
 - [Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) - Rockets! Too bad the library has conflicts.
-- Better Foliage alternative, [BF is dead](https://www.curseforge.com/minecraft/mc-mods/better-foliage) - Fancy Trees.
 - [BetterBeginnings Mod](https://www.curseforge.com/minecraft/mc-mods/betterbeginnings-mod) - A different start to normal progression. This may become redundant with more mods, and the last update from over a year ago seemed to be making it worse.
 - [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition) alternative, this mods not updated for 1.12.2.
 - [Angry Pixel's The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod), Currently leads to massive memory problems. If a fix is available in the future, may bring it back.
@@ -71,6 +71,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Purplicious_Cow and RazzleberryFox's Animania](https://www.curseforge.com/minecraft/mc-mods/animania)
 - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore)
 - [Vazkii's AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
+- [Auto Third Person](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)
 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
 - [Guichaguri's Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)
 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
@@ -80,20 +81,31 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) 
 - [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm)
 - [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api)
+- [Damage Indicators Mod](https://www.curseforge.com/minecraft/mc-mods/damage-indicators-mod)
+- [Diet Hoppers](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)*
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees: BOP Compat](https://www.curseforge.com/minecraft/mc-mods/dtbop)
 - [Dynamic Trees: PHC Compat](https://www.curseforge.com/minecraft/mc-mods/dtphc)
+- [Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors)
 - [Extra Alchemy](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy)
+- [Fabric Controlling](https://www.curseforge.com/minecraft/mc-mods/fabric-controlling)
+- [FastFurace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace)
 - [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Immersive Tech](https://www.curseforge.com/minecraft/mc-mods/immersive-tech)
+- [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- [Keyboard Wizard](https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard)
 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - [zabi94's Minerva Library](https://www.curseforge.com/minecraft/mc-mods/minerva-library)
@@ -101,6 +113,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Natura](https://www.curseforge.com/minecraft/mc-mods/natura)
 - [Open Computers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
+- [Open Gliders](https://www.curseforge.com/minecraft/mc-mods/open-glider)
 - [Optifine](https://optifine.net/home)*
 - [Orelib](https://www.curseforge.com/minecraft/mc-mods/orelib)*
 - [Pamela Collins and Rhodoxs Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
@@ -114,6 +127,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Tinkers Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)
 - [Vanilla Food Pantry](https://www.curseforge.com/minecraft/mc-mods/vanillafoodpantry-mod)
+- [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
 - [Zen Foundry](https://www.curseforge.com/minecraft/mc-mods/zen-foundry)
 
 
