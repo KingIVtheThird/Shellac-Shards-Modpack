@@ -18,10 +18,11 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) - Replace bibliocraft, or add?
 - [Storage Drawers Unlimited](https://www.curseforge.com/minecraft/mc-mods/storage-drawers-unlimited) - Replace storage drawers extras?
 
-# Forest, Nutrition, and Generation Update v0.03:
-- [Armor Underwear Mod](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
+#### Forest, Nutrition, and Generation Update v0.03:
 - [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+- [Armor Underwear Mod](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
 - [BeeBetterAtBees](https://www.curseforge.com/minecraft/mc-mods/beebetteratbees)*
+- [Carrots Library](https://www.curseforge.com/minecraft/mc-mods/carrots-lib)
 - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 - [Divergent Underground](https://www.curseforge.com/minecraft/mc-mods/divergent-underground)
 - [Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek)
@@ -39,21 +40,25 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
 - [Tough As Nails](https://www.curseforge.com/minecraft/mc-mods/agriseasons/download)
 - [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
-# Primative Tech Update v0.0?:
+#### Primative Tech Update v0.0?:
 - [Historicized Medicine](https://www.curseforge.com/minecraft/mc-mods/historicized-medicine)
 - [Leather Works](https://www.curseforge.com/minecraft/mc-mods/leather-works)
 - [Pyrotech](https://www.curseforge.com/minecraft/mc-mods/pyrotech)
-# Industrial Focus Update v0.0?:
+#### Industrial Focus Update v0.0?:
 - [Agricraft](https://www.curseforge.com/minecraft/mc-mods/agricraft)
 - [AgriSeasons](https://www.curseforge.com/minecraft/mc-mods/agriseasons)
 - [ElectriCraft](https://www.curseforge.com/minecraft/mc-mods/electricraft)
 - [IguanaTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/iguanatweaks-reborn)
+- [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [Per Fabrica Ad Astra: Geologica](https://www.curseforge.com/minecraft/mc-mods/per-fabrica-ad-astra-geologica)
 - [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools)
 - [Rotorycraft](https://www.curseforge.com/minecraft/mc-mods/rotarycraft)
-# Power Revolution Update v0.0?:
+- [Techguns](https://www.curseforge.com/minecraft/mc-mods/techguns)
+#### Power Revolution Update v0.0?:
 - [Electrical Age](https://www.curseforge.com/minecraft/mc-mods/electrical-age)
 - [Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
-# Future Tech Update v0.0?:
+#### Future Tech Update v0.0?:
 - [Emerging Technology](https://www.curseforge.com/minecraft/mc-mods/emerging-technology-hydroponics)
 - [Enviromental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
 - [Futurepack](https://www.curseforge.com/minecraft/mc-mods/futurepack)
