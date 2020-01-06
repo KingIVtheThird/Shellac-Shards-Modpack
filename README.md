@@ -5,23 +5,25 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 
 ### Potential Mods:
 - [Dark Utils](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) - Bunch of little items that can make things easier.
-- [Enviromental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) - Green energy generation, and also void miners.
 - [Its The Little Things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things) - Some little HUD changes mostly. Waiting on more content.
-- Adventurers Toolbox, replace tinkers?
-- Simple storage network, replace drawers.
+- [Adventurers Toolbox] - replace tinkers?
+- [Simple storage network] - replace drawers.
 - [Factory Tech](https://www.curseforge.com/minecraft/mc-mods/factory-tech) - Maybe? Needs balancing apparently.
-- [Futurepack](https://www.curseforge.com/minecraft/mc-mods/futurepack) - Maybe? its tech thaumcraft.
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Maybe?
 - [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas) - Replace Journeymap?
-- [Emerging Technology](https://www.curseforge.com/minecraft/mc-mods/emerging-technology-hydroponics) - Adds a bunch of cool modern tech.
-- [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) - Adds some machines, like the multiblock elevator.
 - [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage) - Finally got updated after a year and some, but crashes by itself for now.
-- [Traincraft](http://traincraft-mod.com/wordpress/about/) - Railcraft replacement. 1.7 version is the latest atm.
-- [Geomastery](https://github.com/JayAvery/geomastery) - Does exactly what I want, but is not being worked on anymore. Open source, so I can do something with it.
+- [Traincraft](http://traincraft-mod.com/wordpress/about/) - Railcraft replacement, but 1.7 version is the latest atm.
+- [Geomastery](https://github.com/JayAvery/geomastery) - Does exactly what I want, but is not being worked on anymore. Open source, so maybe I can do something with it.
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) - Pick up blocks and mobs.
+- [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) - Replace bibliocraft, or add?
+- [Storage Drawers Unlimited](https://www.curseforge.com/minecraft/mc-mods/storage-drawers-unlimited) - Replace storage drawers extras?
 
+# Forest, Nutrition, and Generation Update v0.03:
+- [Armor Underwear Mod](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
+- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 - [BeeBetterAtBees](https://www.curseforge.com/minecraft/mc-mods/beebetteratbees)*
 - [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Divergent Underground](https://www.curseforge.com/minecraft/mc-mods/divergent-underground)
 - [Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek)
 - [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
 - [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
@@ -30,11 +32,32 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Nutrition](https://github.com/WesCook/Nutrition)
 - [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
 - [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
+- [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)*
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 - [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
 - [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
 - [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
+- [Tough As Nails](https://www.curseforge.com/minecraft/mc-mods/agriseasons/download)
 - [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
+# Primative Tech Update v0.0?:
+- [Historicized Medicine](https://www.curseforge.com/minecraft/mc-mods/historicized-medicine)
+- [Leather Works](https://www.curseforge.com/minecraft/mc-mods/leather-works)
+- [Pyrotech](https://www.curseforge.com/minecraft/mc-mods/pyrotech)
+# Industrial Focus Update v0.0?:
+- [Agricraft](https://www.curseforge.com/minecraft/mc-mods/agricraft)
+- [AgriSeasons](https://www.curseforge.com/minecraft/mc-mods/agriseasons)
+- [ElectriCraft](https://www.curseforge.com/minecraft/mc-mods/electricraft)
+- [IguanaTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/iguanatweaks-reborn)
+- [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools)
+- [Rotorycraft](https://www.curseforge.com/minecraft/mc-mods/rotarycraft)
+# Power Revolution Update v0.0?:
+- [Electrical Age](https://www.curseforge.com/minecraft/mc-mods/electrical-age)
+- [Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
+# Future Tech Update v0.0?:
+- [Emerging Technology](https://www.curseforge.com/minecraft/mc-mods/emerging-technology-hydroponics)
+- [Enviromental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
+- [Futurepack](https://www.curseforge.com/minecraft/mc-mods/futurepack)
+- [ReactorCraft](https://www.curseforge.com/minecraft/mc-mods/reactorcraft)
 
 
 
@@ -63,7 +86,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Glenns Gases](https://www.curseforge.com/minecraft/mc-mods/glenns-gases) - Missing mechanics and buggy.
 - [Harder Ores](https://www.curseforge.com/minecraft/mc-mods/harder-ores) - Dead. Replaced by Geolosys.
 - [Harder Underground](https://www.curseforge.com/minecraft/mc-mods/harder-underground) - Dead.
-- [Divergent Underground](https://www.curseforge.com/minecraft/mc-mods/divergent-underground) - Makes mining a little more realistic with ground layers, chiseling, rocks, etc. Seems dead.
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) - Replaced by Stackie.
 
 
