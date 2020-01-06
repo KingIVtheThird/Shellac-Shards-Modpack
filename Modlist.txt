@@ -1,0 +1,121 @@
+Performance:
+AI Improvements
+Better FPS
+Diet Hoppers
+FastFurace
+FastWorkbench
+FoamFix
+FPS Reducer
+Optifine
+Phosphor
+Stackie
+
+
+Quality of Life:
+Akeshik Tome
+AppleSkin
+Auto Third Person
+Better Builder's Wands
+Controlling
+Crafting Tweaks
+Damage Indicators Mod
+Dirt2Path
+Fabric Controlling
+GraveStone Mod
+HWYLA
+Inventory Tweaks
+JourneyMap
+Keyboard Wizard
+More Overlays
+Morpheus
+Open Gliders
+Smart HUD
+Tomb Many Graves 2
+Waila Harvestability
+
+
+Libraries:
+AppleCore
+AutoRegLib
+Carrots Library
+Chameleon
+CraftStudio API
+Farseek
+LunatriusCore
+Mantle
+Minerva Library
+Orelib
+
+
+JEI:
+BeeBetterAtBees
+JEI Bees
+Just Enough Items
+Just Enough HarvestCraft
+Just Enough Resources
+Tinker's JEI
+
+
+Prettifiy:
+Connected Textures Mod
+Dynamic Surroundings
+Dynamic Trees
+Dynamic Trees: BOP Compat
+Dynamic Trees: PHC Compat
+Ferdinands Flowers
+Passable Leaves
+Sound Filters
+Streams
+
+
+Core - Nature:
+Animania
+Aquaculture 2
+Biome o' Plenty
+Divergent Underground
+Forestry
+GeoloSys
+Natura
+Quark
+Rustic
+Serene Seasons
+Worleys Caves
+
+Core - Player:
+Armor Underwear Mod
+Hunger In Peace
+Nutrition
+Cooking for Blockheads
+Pam's HarvestCraft
+Spice of Life: Carrot Edition
+Tinkers Tool Leveling
+Tough As Nails
+Vanilla Food Pantry
+
+Core - Decor:
+BiblioCraft
+Chisel
+Chisels and Bits
+
+Core - Tech:
+Ceramics
+Construct's Armory
+Immersive Engineering
+Immersive Tech
+Mekanism
+Open Computers
+Railcraft
+Storage Drawers
+Survivalist
+Tinkers Construct
+Zen Foundry
+
+Core - Extra:
+Engineer's Doors
+Ore Prospectors
+Plus TiC
+Storage Drawers Extras
+
+Core - Lifestyle:
+Extra Alchemy
+Tea the Story
