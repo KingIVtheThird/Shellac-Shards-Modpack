@@ -1,4 +1,4 @@
-# Shellac Shards Modpack Version 0.022
+# Shellac Shards Modpack Version 0.023
 ## For Minecraft 1.12.2, Forge 14.23.5.2847
 This modpack is aiming for a technology centered progressive adventure. Might add a questbook later, or something to guide players from mud huts to space stations.
 
@@ -17,29 +17,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) - Pick up blocks and mobs.
 - [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) - Replace bibliocraft, or add?
 - [Storage Drawers Unlimited](https://www.curseforge.com/minecraft/mc-mods/storage-drawers-unlimited) - Replace storage drawers extras?
-
-#### Forest, Nutrition, and Generation Update v0.03:
-- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-- [Armor Underwear Mod](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
-- [BeeBetterAtBees](https://www.curseforge.com/minecraft/mc-mods/beebetteratbees)*
-- [Carrots Library](https://www.curseforge.com/minecraft/mc-mods/carrots-lib)
-- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
-- [Divergent Underground](https://www.curseforge.com/minecraft/mc-mods/divergent-underground)
-- [Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek)
-- [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
-- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
-- [GeoloSys](https://www.curseforge.com/minecraft/mc-mods/geolosys)
-- [JEI Bees](https://www.curseforge.com/minecraft/mc-mods/jei-bees)*
-- [Nutrition](https://github.com/WesCook/Nutrition)
-- [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
-- [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
-- [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)*
-- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
-- [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
-- [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
-- [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
-- [Tough As Nails](https://www.curseforge.com/minecraft/mc-mods/agriseasons/download)
-- [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
 #### Primative Tech Update v0.0?:
 - [Historicized Medicine](https://www.curseforge.com/minecraft/mc-mods/historicized-medicine)
 - [Leather Works](https://www.curseforge.com/minecraft/mc-mods/leather-works)
@@ -65,7 +42,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [ReactorCraft](https://www.curseforge.com/minecraft/mc-mods/reactorcraft)
 
 
-
 ### Future Custom Gameplay Editing Mods:
 - Tweakers Construct
 - Guide API
@@ -86,7 +62,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 ### Removed, Buggy, or Dead:
 - [Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) - Rockets! Too bad the library has conflicts.
 - [BetterBeginnings Mod](https://www.curseforge.com/minecraft/mc-mods/betterbeginnings-mod) - A different start to normal progression. This may become redundant with more mods, and the last update from over a year ago seemed to be making it worse.
-- [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition) alternative, this mods not updated for 1.12.2.
+- [BiblioCraft: BOP Edition](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-bibliowoods-biomes-oplenty-edition) alternative, this mod is not updated for 1.12.2.
 - [Angry Pixel's The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod), Currently leads to massive memory problems. If a fix is available in the future, may bring it back.
 - [Glenns Gases](https://www.curseforge.com/minecraft/mc-mods/glenns-gases) - Missing mechanics and buggy.
 - [Harder Ores](https://www.curseforge.com/minecraft/mc-mods/harder-ores) - Dead. Replaced by Geolosys.
@@ -102,13 +78,18 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)*
 - [Vazkii's AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 - [Auto Third Person](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)*
+- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+- [Armor Underwear Mod](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
+- [BeeBetterAtBees](https://www.curseforge.com/minecraft/mc-mods/beebetteratbees)*
 - [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
 - [Guichaguri's Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)*
 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
 - [Biome o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Carrots Library](https://www.curseforge.com/minecraft/mc-mods/carrots-lib)
 - [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
 - [jaquadro's Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
+- [Chisels and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 - [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)*
 - [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
@@ -118,6 +99,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Damage Indicators Mod](https://www.curseforge.com/minecraft/mc-mods/damage-indicators-mod)
 - [Dirt2Path](https://www.curseforge.com/minecraft/mc-mods/dirt2path)
 - [Diet Hoppers](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers)
+- [Divergent Underground](https://www.curseforge.com/minecraft/mc-mods/divergent-underground)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)*
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees: BOP Compat](https://www.curseforge.com/minecraft/mc-mods/dtbop)
@@ -125,16 +107,21 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [nihiltres' Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors)
 - [Extra Alchemy](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy)
 - [Fabric Controlling](https://www.curseforge.com/minecraft/mc-mods/fabric-controlling)
+- [Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek)
 - [FastFurace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)*
+- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)*
+- [GeoloSys](https://www.curseforge.com/minecraft/mc-mods/geolosys)
 - [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace)
 - [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [Immersive Tech](https://www.curseforge.com/minecraft/mc-mods/immersive-tech)
 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)*
+- [JEI Bees](https://www.curseforge.com/minecraft/mc-mods/jei-bees)*
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)*
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)*
 - [Just Enough HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft)*
@@ -147,27 +134,37 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays)*
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Natura](https://www.curseforge.com/minecraft/mc-mods/natura)
+- [Nutrition](https://github.com/WesCook/Nutrition)
 - [Open Computers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
 - [Open Gliders](https://www.curseforge.com/minecraft/mc-mods/open-glider)
 - [Optifine](https://optifine.net/home)*
 - [Orelib](https://www.curseforge.com/minecraft/mc-mods/orelib)*
+- [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
 - [Pamela Collins and Rhodoxs Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 - [Passable Leaves](https://www.curseforge.com/minecraft/mc-mods/passable-leaves)
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 - [Plus TiC](https://www.curseforge.com/minecraft/mc-mods/plustic)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)
+- [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Smart HUD](https://www.curseforge.com/minecraft/mc-mods/smart-hud)*
+- [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)*
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 - [Stackie](https://www.curseforge.com/minecraft/mc-mods/stackie)
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [Storage Drawers Extras](https://www.curseforge.com/minecraft/mc-mods/storage-drawers-extras)
+- [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
+- [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
+- [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Tinker's JEI](https://www.curseforge.com/minecraft/mc-mods/tinkers-jei)*
 - [Tinkers Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)
 - [Tomb Many Graves 2](https://www.curseforge.com/minecraft/mc-mods/tomb-many-graves-2)
+- [Tough As Nails](https://www.curseforge.com/minecraft/mc-mods/agriseasons/download)
 - [Vanilla Food Pantry](https://www.curseforge.com/minecraft/mc-mods/vanillafoodpantry-mod)
 - [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
+- [Worleys Caves](https://www.curseforge.com/minecraft/mc-mods/worleys-caves)
 - [Zen Foundry](https://www.curseforge.com/minecraft/mc-mods/zen-foundry)
 
 
