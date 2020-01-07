@@ -17,21 +17,26 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) - Pick up blocks and mobs.
 - [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) - Replace bibliocraft, or add?
 - [Storage Drawers Unlimited](https://www.curseforge.com/minecraft/mc-mods/storage-drawers-unlimited) - Replace storage drawers extras?
+- [Just A Raft Mod](https://www.curseforge.com/minecraft/mc-mods/just-a-raft-mod) - Adds a raft.
+- [Magnum Opus](https://www.curseforge.com/minecraft/mc-mods/magnumopus) - Addon to primalcore, lacks content atm.
+- [A Block of Charcoal](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal)
+
 #### Primative Tech Update v0.0?:
 - [Historicized Medicine](https://www.curseforge.com/minecraft/mc-mods/historicized-medicine)
+- [Kitsu's ForgeCraft](https://www.curseforge.com/minecraft/mc-mods/kitsus-forgecraft)
 - [Leather Works](https://www.curseforge.com/minecraft/mc-mods/leather-works)
+- [PrimalCore](https://www.curseforge.com/minecraft/mc-mods/primalcore)
 - [Pyrotech](https://www.curseforge.com/minecraft/mc-mods/pyrotech)
 #### Industrial Focus Update v0.0?:
 - [Agricraft](https://www.curseforge.com/minecraft/mc-mods/agricraft)
 - [AgriSeasons](https://www.curseforge.com/minecraft/mc-mods/agriseasons)
-- [ElectriCraft](https://www.curseforge.com/minecraft/mc-mods/electricraft)
 - [IguanaTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/iguanatweaks-reborn)
 - [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)
-- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
-- [Per Fabrica Ad Astra: Geologica](https://www.curseforge.com/minecraft/mc-mods/per-fabrica-ad-astra-geologica)
+- [Magneticraft](https://www.curseforge.com/minecraft/mc-mods/magneticraft)
+- [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) - Just here for the Techguns book. Removable.
 - [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools)
-- [Rotorycraft](https://www.curseforge.com/minecraft/mc-mods/rotarycraft)
-- [Techguns](https://www.curseforge.com/minecraft/mc-mods/techguns)
+- [Techguns](https://www.curseforge.com/minecraft/mc-mods/techguns) - Inexhaustible ore? Everything else seems completely useless.
 #### Power Revolution Update v0.0?:
 - [Electrical Age](https://www.curseforge.com/minecraft/mc-mods/electrical-age)
 - [Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
@@ -39,7 +44,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Emerging Technology](https://www.curseforge.com/minecraft/mc-mods/emerging-technology-hydroponics)
 - [Enviromental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
 - [Futurepack](https://www.curseforge.com/minecraft/mc-mods/futurepack)
-- [ReactorCraft](https://www.curseforge.com/minecraft/mc-mods/reactorcraft)
 
 
 ### Future Custom Gameplay Editing Mods:
@@ -47,6 +51,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - Guide API
 - [Ambience Music Mod](https://www.curseforge.com/minecraft/mc-mods/ambience-music-mod/files)
 - [Craft Tweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- [CustomOreGen](https://www.curseforge.com/minecraft/mc-mods/customoregen)
 - [Vazkii's Reskillable](https://www.curseforge.com/minecraft/mc-mods/reskillable)
 - [Game Stages](https://www.curseforge.com/minecraft/mc-mods/game-stages)
 - [DeflatedPickle's Just the Tips](https://www.curseforge.com/minecraft/mc-mods/justthetips)
@@ -68,6 +73,10 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Harder Ores](https://www.curseforge.com/minecraft/mc-mods/harder-ores) - Dead. Replaced by Geolosys.
 - [Harder Underground](https://www.curseforge.com/minecraft/mc-mods/harder-underground) - Dead.
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) - Replaced by Stackie.
+- [Rotorycraft](https://www.curseforge.com/minecraft/mc-mods/rotarycraft) - 1.7 dead.
+- [ElectriCraft](https://www.curseforge.com/minecraft/mc-mods/electricraft) - 1.7 dead.
+- [ReactorCraft](https://www.curseforge.com/minecraft/mc-mods/reactorcraft) - 1.7 dead.
+- [Per Fabrica Ad Astra: Geologica](https://www.curseforge.com/minecraft/mc-mods/per-fabrica-ad-astra-geologica) - 1.7.10, dead. Geolosys adds some of what this had.
 
 
 ### Sources:
