@@ -1,3 +1,4 @@
+0.024 - Added Historicized Medicine, Leatherworks, Primalcore, Pyrotech, and changed ore spawning configs to fit with Geolosys. Removed redundant mods.
 0.023 - Added 21 core mods, adding mechanics ranging from terrain generation and flora to nutrition and temperature requirements.
 0.022 - Added 13 performance enhancing mods.
 0.021 - Added 13 QoL mods, including performance tweaks, gliders, and JEI/HWYLA stuff.

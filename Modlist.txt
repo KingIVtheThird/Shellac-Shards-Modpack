@@ -36,15 +36,18 @@ Waila Harvestability
 
 Libraries:
 AppleCore
+Athenaeum
 AutoRegLib
 Carrots Library
 Chameleon
 CraftStudio API
+Dropt
 Farseek
 LunatriusCore
 Mantle
 Minerva Library
 Orelib
+Patchouli
 
 
 JEI:
@@ -83,6 +86,7 @@ Worleys Caves
 
 Core - Player:
 Armor Underwear Mod
+Historicized Medicine
 Hunger In Peace
 Nutrition
 Cooking for Blockheads
@@ -102,8 +106,11 @@ Ceramics
 Construct's Armory
 Immersive Engineering
 Immersive Tech
+Leather Works
 Mekanism
 Open Computers
+PrimalCore
+Pyrotech
 Railcraft
 Storage Drawers
 Survivalist
@@ -118,4 +125,5 @@ Storage Drawers Extras
 
 Core - Lifestyle:
 Extra Alchemy
+Kitsu's ForgeCraft
 Tea the Story

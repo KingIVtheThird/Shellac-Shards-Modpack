@@ -1,4 +1,4 @@
-# Shellac Shards Modpack Version 0.023
+# Shellac Shards Modpack Version 0.024
 ## For Minecraft 1.12.2, Forge 14.23.5.2847
 This modpack is aiming for a technology centered progressive adventure. Might add a questbook later, or something to guide players from mud huts to space stations.
 
@@ -21,12 +21,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Magnum Opus](https://www.curseforge.com/minecraft/mc-mods/magnumopus) - Addon to primalcore, lacks content atm.
 - [A Block of Charcoal](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal)
 
-#### Primative Tech Update v0.0?:
-- [Historicized Medicine](https://www.curseforge.com/minecraft/mc-mods/historicized-medicine)
-- [Kitsu's ForgeCraft](https://www.curseforge.com/minecraft/mc-mods/kitsus-forgecraft)
-- [Leather Works](https://www.curseforge.com/minecraft/mc-mods/leather-works)
-- [PrimalCore](https://www.curseforge.com/minecraft/mc-mods/primalcore)
-- [Pyrotech](https://www.curseforge.com/minecraft/mc-mods/pyrotech)
 #### Industrial Focus Update v0.0?:
 - [Agricraft](https://www.curseforge.com/minecraft/mc-mods/agricraft)
 - [AgriSeasons](https://www.curseforge.com/minecraft/mc-mods/agriseasons)
@@ -34,7 +28,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)
 - [Magneticraft](https://www.curseforge.com/minecraft/mc-mods/magneticraft)
 - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
-- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) - Just here for the Techguns book. Removable.
 - [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools)
 - [Techguns](https://www.curseforge.com/minecraft/mc-mods/techguns) - Inexhaustible ore? Everything else seems completely useless.
 #### Power Revolution Update v0.0?:
@@ -77,6 +70,8 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [ElectriCraft](https://www.curseforge.com/minecraft/mc-mods/electricraft) - 1.7 dead.
 - [ReactorCraft](https://www.curseforge.com/minecraft/mc-mods/reactorcraft) - 1.7 dead.
 - [Per Fabrica Ad Astra: Geologica](https://www.curseforge.com/minecraft/mc-mods/per-fabrica-ad-astra-geologica) - 1.7.10, dead. Geolosys adds some of what this had.
+- [Dirt2Path](https://www.curseforge.com/minecraft/mc-mods/dirt2path) - Quark does this.
+- [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist) - Chopping block, leather, drying racks, all redundant.
 
 
 ### Sources:
@@ -85,6 +80,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Purplicious_Cow and RazzleberryFox's Animania](https://www.curseforge.com/minecraft/mc-mods/animania)
 - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)*
+- [Athenaeum](https://www.curseforge.com/minecraft/mc-mods/athenaeum)
 - [Vazkii's AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 - [Auto Third Person](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)*
 - [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
@@ -106,9 +102,9 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm)
 - [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api)
 - [Damage Indicators Mod](https://www.curseforge.com/minecraft/mc-mods/damage-indicators-mod)
-- [Dirt2Path](https://www.curseforge.com/minecraft/mc-mods/dirt2path)
 - [Diet Hoppers](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers)
 - [Divergent Underground](https://www.curseforge.com/minecraft/mc-mods/divergent-underground)
+- [Dropt](https://www.curseforge.com/minecraft/mc-mods/dropt)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)*
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees: BOP Compat](https://www.curseforge.com/minecraft/mc-mods/dtbop)
@@ -122,9 +118,11 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Ferdinands Flowers](https://www.curseforge.com/minecraft/mc-mods/ferdinands-flowers)
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)*
 - [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
+- [Kitsu's ForgeCraft](https://www.curseforge.com/minecraft/mc-mods/kitsus-forgecraft)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)*
 - [GeoloSys](https://www.curseforge.com/minecraft/mc-mods/geolosys)
 - [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [Historicized Medicine](https://www.curseforge.com/minecraft/mc-mods/historicized-medicine)
 - [Hunger In Peace](https://www.curseforge.com/minecraft/mc-mods/hunger-in-peace)
 - [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
@@ -136,6 +134,7 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Just Enough HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft)*
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 - [Keyboard Wizard](https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard)
+- [Leather Works](https://www.curseforge.com/minecraft/mc-mods/leather-works)
 - [LunatriusCore](https://www.curseforge.com/minecraft/mc-mods/lunatriuscore)
 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
@@ -151,8 +150,11 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Ore Prospectors](https://www.curseforge.com/minecraft/mc-mods/ore-prospectors)
 - [Pamela Collins and Rhodoxs Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 - [Passable Leaves](https://www.curseforge.com/minecraft/mc-mods/passable-leaves)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 - [Plus TiC](https://www.curseforge.com/minecraft/mc-mods/plustic)
+- [PrimalCore](https://www.curseforge.com/minecraft/mc-mods/primalcore)
+- [Pyrotech](https://www.curseforge.com/minecraft/mc-mods/pyrotech)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)
 - [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
@@ -164,7 +166,6 @@ This modpack is aiming for a technology centered progressive adventure. Might ad
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [Storage Drawers Extras](https://www.curseforge.com/minecraft/mc-mods/storage-drawers-extras)
 - [Streams](https://www.curseforge.com/minecraft/mc-mods/streams)
-- [Survivalist](https://www.curseforge.com/minecraft/mc-mods/survivalist)
 - [Tea the Story](https://www.curseforge.com/minecraft/mc-mods/tea-the-story)
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Tinker's JEI](https://www.curseforge.com/minecraft/mc-mods/tinkers-jei)*
